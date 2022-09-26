@@ -1,0 +1,21 @@
+{
+    "name": "oirancage/rawtext-structure",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "oirancage\\rawtextstructure\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "famima65536",
+            "email": "famima65536@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpstan/phpstan": "^1.8",
+        "crell/serde": "^0.5.0",
+        "phpunit/phpunit": "^9.5"
+    }
+}
